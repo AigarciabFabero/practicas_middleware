@@ -1,0 +1,11 @@
+/home/gitpod/yarp_exercises/build/CMakeFiles/sender.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/receiver.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/custom_sender.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/custom_receiver.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/custom_auto_connect.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/buffered_port.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/custom_buffered_port.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/multithread.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/multihilo.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/edit_cache.dir
+/home/gitpod/yarp_exercises/build/CMakeFiles/rebuild_cache.dir

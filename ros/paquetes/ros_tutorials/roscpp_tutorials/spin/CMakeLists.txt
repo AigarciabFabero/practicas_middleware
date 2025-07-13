@@ -1,0 +1,1 @@
+rosbuild_add_executable(spin spin.cpp)
