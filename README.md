@@ -122,6 +122,13 @@ YARP (Yet Another Robot Platform) es un middleware de código abierto diseñado 
 - **Docker básico para prácticas**: [Repositorio en GitHub](https://github.com/fjrodl/icub-gazebo-grasping-sandbox)
 - **Instrucciones de configuración**: [Guía de configuración del Docker](https://github.com/fjrodl/icub-gazebo-grasping-sandbox/blob/master/dockerfiles/README.md)
 
+** IMÁGENES DOCKER ** -> https://hub.docker.com/repositories/aigarciabfabero
+- **imagen midd-yarp**: docker pull aigarciabfabero/midd-yarp-guardado:latest
+- **imagen midd-ros2**: docker pull aigarciabfabero/midd-ros2-guardado:latest
+- **imagen midd-ros**: docker pull aigarciabfabero/midd-ros-guardado:latest
+
+** Recordemos que para crear un nuevo contenedor a partir de una imagen debemos hacer: "docker run -it --name mi-nuevo-yarp aigarciabfabero/midd-yarp-guardado:latest"
+
 ### Requisitos
 
 - **Sistema Operativo**: Ubuntu 22.04 o entorno compatible.
